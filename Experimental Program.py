@@ -5,6 +5,7 @@ import Addresses_Details
 import ttk
 
 #Rough Protype
+#Asaf Silman 2016
 
 key1 = 'xprv9s21ZrQH143K2JF8RafpqtKiTbsbaxEeUaMnNHsm5o6wCW3z8ySyH4UxFVSfZ8n7ESu7fgir8imbZKLYVBxFPND1pniTZ81vKfd45EHKX73'
 font_title = ('Emilbus', 15, 'underline')
